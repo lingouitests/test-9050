@@ -1,0 +1,19 @@
+STRINGTABLE
+BEGIN
+key1 "5408.31077 Trailing spaces  "
+key2 "5408.31078   Leading spaces"
+key3 "5408.31079 Unicode trailing space\u0020"
+key4 "5408.31080 \u0020 Unicode leading space"
+key5 "5408.31081 \nLeading new line"
+key6 "5408.31082 Trailing new line\n"
+key7 "5408.31083 \tLeading tab"
+key8 "5408.31084 Trailing tab\t"
+key9 "5408.31085 \rLeading return"
+key10 "5408.31086 Trailing return\r"
+key11 "5408.31087 \fLeading formfeed"
+key12 "5408.31088 Trailing formfeed\f"
+key13 "5408.31089 Unicode trailing quote\u0022"
+key14 "5408.31090 \u0022 Unicode leading quote"
+key15 "5408.31091 \vLeading vertical space"
+key16 "5408.31092 Trailing vertical space\v"
+END
