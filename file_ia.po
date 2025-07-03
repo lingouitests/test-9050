@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "key1"
+msgstr "5408.31028 Trailing spaces  "
+
+msgid "key2"
+msgstr "5408.31029   Leading spaces"
+
+msgid "key3"
+msgstr "5408.31030 Unicode trailing space\u0020"
+
+msgid "key4"
+msgstr "5408.31031 \u0020 Unicode leading space"
+
+msgid "key5"
+msgstr "5408.31032 \nLeading new line"
+
+msgid "key6"
+msgstr "5408.31033 Trailing new line\n"
+
+msgid "key7"
+msgstr "5408.31034 \tLeading tab"
+
+msgid "key8"
+msgstr "5408.31035 Trailing tab\t"
+
+msgid "key9"
+msgstr "5408.31036 \rLeading return"
+
+msgid "key10"
+msgstr "5408.31037 Trailing return\r"
+
+msgid "key11"
+msgstr "5408.31038 \fLeading formfeed"
+
+msgid "key12"
+msgstr "5408.31039 Trailing formfeed\f"
+
+msgid "key13"
+msgstr "5408.31040 Unicode trailing quote\u0022"
+
+msgid "key14"
+msgstr "5408.31041 \u0022 Unicode leading quote"
+
+msgid "key15"
+msgstr "5408.31042 \vLeading vertical space"
+
+msgid "key16"
+msgstr "5408.31043 Trailing vertical space\v"
