@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools">  
+  <string name="key1">5408.31012 Trailing spaces  </string>
+  <string name="key2">5408.31013   Leading spaces</string>
+  <string name="key3">5408.31014 Unicode trailing space\u0020</string>
+  <string name="key4">5408.31015 \u0020 Unicode leading space</string>
+  <string name="key5">5408.31016 \nLeading new line</string>
+  <string name="key6">5408.31017 Trailing new line\n</string>
+  <string name="key7">5408.31018 \tLeading tab</string>
+  <string name="key8">5408.31019 Trailing tab\t</string>
+  <string name="key9">5408.31020 \rLeading return</string>
+  <string name="key10">5408.31021 Trailing return\r</string>
+  <string name="key11">5408.31022 \fLeading formfeed</string>
+  <string name="key12">5408.31023 Trailing formfeed\f</string>
+  <string name="key13">5408.31024 Unicode trailing quote\u0022</string>
+  <string name="key14">5408.31025 \u0022 Unicode leading quote</string>
+  <string name="key15">5408.31026 \vLeading vertical space</string>
+  <string name="key16">5408.31027 Trailing vertical space\v</string> 
+</resources>
